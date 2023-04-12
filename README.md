@@ -1,2 +1,2 @@
-# learnig_git
-Learning everything about git starting from the basics
+A project on git
+Learning everything about git starting from the basics 
